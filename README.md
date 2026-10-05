@@ -1,13 +1,6 @@
 # Hi, I'm Dylan Ivie 👋
 
-I am an analytics professional and certified nerd:  
-    -Favorite movie: The Good, The Bad and The Ugly  
-    -Favorite movie series: The Lord of The Rings  
-    -Favorite game: The Witcher 3  
-    -Favorite game series: Monster Hunter  
-    -Favorite song: Moon Baby by Godsmack  
-    -Favorite band: Godsmack  
-    -Favorite current bands: Trivium, Kublai Khan TX  
+Analytics professional recently diving head first into the complete power of what AI can do.
 
 I build things with AI agents, mostly Claude Code, and I treat them like a small engineering team: specs first, plans reviewed before any code changes, decisions written down, and a separate AI reviewer checking the builder's work.
 
